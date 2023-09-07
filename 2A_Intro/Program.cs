@@ -27,7 +27,7 @@ HighestNumOfTwo(a: 22, b: 212); // What number is higher?
 HighestNumOfThree(a: 222, b: 233, c: 434); // Highest Number of the three
 
 HalfOfNum(number: 120); // Whats the half of this number?
-PercentOfNum(percent: 14, number: 140); // How much is x percent of x?
+PercentOfNum(percent: 14, number: 1302); // How much is x percent of x?
 Score(74, 74); // Which Score is higher and who wins?
 Age(2002,2023); // How old are you?
 #endregion
