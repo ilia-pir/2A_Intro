@@ -1,0 +1,15 @@
+C:\Users\Hajitun\RiderProjects\2A_Intro\2A_Intro\bin\Debug\net7.0\2A_Intro.exe
+C:\Users\Hajitun\RiderProjects\2A_Intro\2A_Intro\bin\Debug\net7.0\2A_Intro.deps.json
+C:\Users\Hajitun\RiderProjects\2A_Intro\2A_Intro\bin\Debug\net7.0\2A_Intro.runtimeconfig.json
+C:\Users\Hajitun\RiderProjects\2A_Intro\2A_Intro\bin\Debug\net7.0\2A_Intro.dll
+C:\Users\Hajitun\RiderProjects\2A_Intro\2A_Intro\bin\Debug\net7.0\2A_Intro.pdb
+C:\Users\Hajitun\RiderProjects\2A_Intro\2A_Intro\obj\Debug\net7.0\2A_Intro.csproj.AssemblyReference.cache
+C:\Users\Hajitun\RiderProjects\2A_Intro\2A_Intro\obj\Debug\net7.0\2A_Intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hajitun\RiderProjects\2A_Intro\2A_Intro\obj\Debug\net7.0\2A_Intro.AssemblyInfoInputs.cache
+C:\Users\Hajitun\RiderProjects\2A_Intro\2A_Intro\obj\Debug\net7.0\2A_Intro.AssemblyInfo.cs
+C:\Users\Hajitun\RiderProjects\2A_Intro\2A_Intro\obj\Debug\net7.0\2A_Intro.csproj.CoreCompileInputs.cache
+C:\Users\Hajitun\RiderProjects\2A_Intro\2A_Intro\obj\Debug\net7.0\2A_Intro.dll
+C:\Users\Hajitun\RiderProjects\2A_Intro\2A_Intro\obj\Debug\net7.0\refint\2A_Intro.dll
+C:\Users\Hajitun\RiderProjects\2A_Intro\2A_Intro\obj\Debug\net7.0\2A_Intro.pdb
+C:\Users\Hajitun\RiderProjects\2A_Intro\2A_Intro\obj\Debug\net7.0\2A_Intro.genruntimeconfig.cache
+C:\Users\Hajitun\RiderProjects\2A_Intro\2A_Intro\obj\Debug\net7.0\ref\2A_Intro.dll
